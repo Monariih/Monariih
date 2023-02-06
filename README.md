@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Já acompanha por aqui e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    AD astra PER aspera
   </p>
   
 </div>
