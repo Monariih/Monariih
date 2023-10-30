@@ -30,6 +30,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+  <img align="center" alt="GoLang" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/go.png"/>
 </div><br>
 
  <div align="center">
