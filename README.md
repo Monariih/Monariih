@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/lucas-monari-082704210/"> About me </a>
   </h1>
   
-  <p align="center">
+  <p align="justify">
    A professional with a primary focus on collaborating with a software development team, utilizing skills and expertise in Javascript, Node.JS, and Firebase, along with the Vue.JS framework. Additionally, this individual is proficient in agile methodologies like SCRUM, employing supporting tools such as GIT and VScode, as well as package version control using NPM. Notably, this professional also undertakes projects in JAVA with Spring Boot and Golang. Currently in the 4th semester of pursuing a degree in Analysis and Systems Development, with an anticipated graduation date in December 2023.
   </p>
   
