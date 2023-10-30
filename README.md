@@ -5,7 +5,7 @@
   </h1>
   
   <p align="justify">
-   A professional with a primary focus on collaborating with a software development team, utilizing skills and expertise in Javascript, Node.JS, and Firebase, along with the Vue.JS framework. Additionally, this individual is proficient in agile methodologies like SCRUM, employing supporting tools such as GIT and VScode, as well as package version control using NPM. Notably, this professional also undertakes projects in JAVA with Spring Boot and Golang. Currently in the 4th semester of pursuing a degree in Analysis and Systems Development, with an anticipated graduation date in December 2023.
+A professional collaborates with software development teams, specializing in Javascript, Vue.JS, Java with Spring Boot, and Golang. Proficient in agile methodologies (SCRUM) and version control tools like GIT and NPM.
   </p>
   
   <p align="center">
